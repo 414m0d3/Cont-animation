@@ -1,5 +1,5 @@
 # Cont-animation
-### Externalize GUI to follow data patterns from a JSON file, allowing non-devs to make content changes
+### Generate Keyframes and Animation Data from JSON file, allowing non-devs to import changes without using Unity GUI
 
 ## The Scripts
 **SceneLoader.cs**
